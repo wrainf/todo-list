@@ -1,0 +1,23 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrainf/todo-list.git"
+  },
+  "author": "wrainf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrainf/todo-list/issues"
+  },
+  "homepage": "https://github.com/wrainf/todo-list#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1"
+  }
+}
